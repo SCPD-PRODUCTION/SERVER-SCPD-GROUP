@@ -1,0 +1,9 @@
+const CONFIG = {
+    API_BASE_URL: 'http://localhost:2011',
+    WS_URL: 'ws://localhost:2011',
+    WS_RECONNECT_INTERVAL: 5000,
+    WS_PING_INTERVAL: 30000,
+    DATETIME_UPDATE_INTERVAL: 1000,
+    NETWORK_GRAPH_MAX_POINTS: 60,
+    DEBUG: false
+};
