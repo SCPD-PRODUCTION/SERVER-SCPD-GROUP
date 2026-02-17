@@ -1,6 +1,6 @@
 const CONFIG = {
-    API_BASE_URL: 'https://epigrammatic-oliva-furuncular.ngrok-free.dev',
-    WS_URL: 'ws://epigrammatic-oliva-furuncular.ngrok-free.dev',
+    API_BASE_URL: 'http://localhost:2011',
+    WS_URL: 'ws://localhost:2011',
     WS_RECONNECT_INTERVAL: 5000,
     WS_PING_INTERVAL: 30000,
     DATETIME_UPDATE_INTERVAL: 1000,
